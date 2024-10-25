@@ -17,7 +17,7 @@ public class SignupController {
     /**
      * Executes the Signup Use Case.
      * @param username the username to sign up
-     * @param password1 the password
+     * @param password1 the passwdord
      * @param password2 the password repeated
      */
     public void execute(String username, String password1, String password2) {
